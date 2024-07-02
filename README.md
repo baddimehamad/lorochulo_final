@@ -1,1 +1,1 @@
-# lorochulo_final
+# this is a worpress theme called lorochulo
